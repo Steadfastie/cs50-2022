@@ -1,5 +1,5 @@
 # SIMPLE PDF READER
-#### Video Demo:  <URL t.me/kutler>
+#### Video Demo:  <URL bit.ly/3EwmdPi>
 #### Description:
 This is python-based simple pdf-reader with 1 reason to be written: open .pdf files
 
@@ -35,6 +35,6 @@ You did a really great job to cover that much of information in just 2 month of 
 I am now thinking to read Bjarne Stroustrup Programming! The bible of C++
 Hope it will be my greatest mistake, but I find it really joyfull to learn programming
 
-If you have any questions...well, I hope you can contact me on link for video
+If you have any questions...well, I hope you can contact me on video video
 
 Have a nice day!
